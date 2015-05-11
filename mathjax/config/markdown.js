@@ -3,7 +3,7 @@ MathJax.Hub.Config({
     styleSheets: [],
   styles: {},
   jax: ["input/TeX", "output/HTML-CSS"],
-  extensions: ["tex2jax.js"],
+  extensions: ["tex2jax.js", "TeX/AMSmath.js", "TeX/AMSsymbols.js"],
   preJax: null,
   postJax: null,
   preRemoveClass: "MathJax_Preview",
