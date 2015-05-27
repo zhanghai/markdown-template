@@ -7,3 +7,5 @@ Currently I use Chrome print to file for rendering.
 ## Get Started
 
 Execute `deploy.sh` to generate a template for your own use, and then start writing your markdown documents from the template.
+
+You can also optionally execute `install.sh` to install the template file to your XDG template directory, for usage within most file managers.
