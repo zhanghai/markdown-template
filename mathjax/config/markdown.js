@@ -8,7 +8,7 @@ MathJax.Hub.Config({
   postJax: null,
   preRemoveClass: "MathJax_Preview",
   showProcessingMessages: true,
-  messageStyle: "normal",
+  messageStyle: "none",
   displayAlign: "center",
   displayIndent: "0",
   delayStartupUntil: "none",
