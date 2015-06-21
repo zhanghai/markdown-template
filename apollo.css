@@ -176,6 +176,9 @@ code {
   font-family: "WenQuanYi Micro Hei Mono", "Source Code Pro", Consolas, Monaco, Menlo, "WenQuanYi Zen Hei Mono", "WenQuanYi Micro Hei", "WenQuanYi Zen Hei", monospace;
   font-size: 1em;
 }
+pre code {
+  padding: 0;
+}
 .left,
 .alignleft {
   float: left;
